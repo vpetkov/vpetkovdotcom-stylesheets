@@ -1,1 +1,1 @@
-###Template files for my [static blog generator](https://github.com/vpetkov/StaticBlogGenerator).
+###Style sheet files for my [static blog](https://github.com/vpetkov/StaticBlogGenerator).
