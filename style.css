@@ -8,7 +8,7 @@ body, html {
 }
 
 #wrap {
-    width: 650px;
+    width: 750px;
     margin: 0 auto;
 }
 
@@ -20,11 +20,18 @@ body, html {
 #main {
 	float: left;
 	padding: 10px;
-    width: 450px;
     font-size: 1.0em;
     line-height: 1.5em;
     text-align: justify;
     list-style-type: none;
+}
+
+.article {
+    width: 750px;
+}
+
+.home {
+    width: 550px;
 }
 
 #side {
